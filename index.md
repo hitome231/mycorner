@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to eat 宋亚轩's amway
 
 You can use the [editor on GitHub](https://github.com/hitome231/mycorner/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
